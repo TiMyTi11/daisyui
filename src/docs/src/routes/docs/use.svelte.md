@@ -1,5 +1,5 @@
 ---
-title: Add component classes to your HTML
+title: Does this work?
 desc: How to use daisyUI classes to style your page?
 published: true
 ---
